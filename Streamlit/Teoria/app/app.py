@@ -1,6 +1,6 @@
 import streamlit as st
 # Write a page title
-st.title('Hello World. This is a Title')
+st.title('Hello World. This is a Title Juan...')
 
 # Al ejecutar este código nos tendremos que "logear" en Streamlit (solo nuestro correo)
 
