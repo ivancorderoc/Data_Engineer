@@ -1,0 +1,8 @@
+flask
+numpy
+pandas
+<<<<<<< HEAD
+scikit-learn
+=======
+scikit-learn
+>>>>>>> upstream/main
